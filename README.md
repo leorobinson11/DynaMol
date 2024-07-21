@@ -8,7 +8,7 @@ Download by cloning Git repository:
 ```
 git inshttps://github.com/leorobinson11/DynaMol.git
 cd DynaMol
-pip install -r equirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
